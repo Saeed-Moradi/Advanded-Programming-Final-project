@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1546963223 source:c:\users\saeed1\desktop\helper c++\helperc++\helper.cpp
+	"helper.h"
+
+1546963259 c:\users\saeed1\desktop\helper c++\helperc++\helper.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<map>
+	<string>
+	<fstream>
+
+1546963280 source:c:\users\saeed1\desktop\helper c++\helperc++\main.cpp
+	"helper.h"
+	<iostream>
+	<map>
+	<vector>
+	<string>
+	<algorithm>
+	<fstream>
+	"helper.h"
+
